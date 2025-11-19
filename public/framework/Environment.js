@@ -1,4 +1,4 @@
-export class Environment {
+export default class Environment {
   constructor(canvasID) {
     this.canvas = document.getElementById(canvasID);
 

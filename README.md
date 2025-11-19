@@ -3,7 +3,7 @@ Javascript Physics Sandbox
 Using Node Express to host the site
 
 # How to run
-currently the only way to run the app is to download the src and 
+currently you must run the source, this will be changed in the future. 
 
 execute the following command:
-```run node app.js```  
+```node app.js```  

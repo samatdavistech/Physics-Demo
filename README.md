@@ -16,6 +16,9 @@ npm run dev
 ### Inspiration
 I just wanted to create something similar to [Matter.js](https://brm.io/matter-js/)
 
+## Examples
+![gif of a cube falling due to gravity](https://github.com/samatdavistech/Physics-Demo/blob/main/examples/sample.gif)
+
 ## Modularity
 This project is incredibly simple but can be expanded upon very easily.
 This is the base class for a body.
